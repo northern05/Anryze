@@ -20,6 +20,8 @@ public class Example {
 
             Class.forName("com.")
 
+                    //it's a dev suka
+
             try (Connection conn = DriverManager.getConnection(DB_CONNECTION, DB_USER, DB_PASSWORD);
                  Statement statement = conn.createStatement();
                  ResultSet resultSet = statement.executeQuery("SELECT * FROM users")) {
