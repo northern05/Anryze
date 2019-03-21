@@ -6,6 +6,7 @@ import java.sql.ResultSet;
 import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 
+import java.util.Date;
 import java.util.Scanner;
 
 
@@ -26,20 +27,20 @@ import java.util.Scanner;
 
                     while (true) {
                         System.out.println("1: add user");
-                        System.out.println("2: delete client");
-                        System.out.println("3: change client");
-                        System.out.println("4: view clients");
+                        System.out.println("2: delete user");
+                        System.out.println("3: change user");
+                        System.out.println("4: view user");
                         System.out.print("-> ");
 
                         String s = sc.nextLine();
                         if ("1".equals(s)) {
-                            addClient(sc);
+                            addUsers(sc);
                         } else if ("2".equals(s)) {
-                            deleteClient(sc);
+                            deleteUsers(sc);
                         } else if ("3".equals(s)) {
-                            changeClient(sc);
+                            changeUsers(sc);
                         } else if ("4".equals(s)) {
-                            viewClients();
+                            viewUsers();
                         } else {
                             return;
                         }
@@ -64,44 +65,46 @@ import java.util.Scanner;
         }
     }*/
 
-        private static void addClient(Scanner sc) throws SQLException {
-            System.out.print("Enter client name: ");
-            String name = sc.nextLine();
-            System.out.print("Enter client age: ");
-            String sAge = sc.nextLine();
-            int age = Integer.parseInt(sAge);
+        private static void addUsers(Scanner sc) throws SQLException {
+            System.out.print("Enter user email: ");
+            String email = sc.nextLine();
+            System.out.print("Enter user phone: ");
+            String phone = sc.nextLine();
+            System.out.print("Enter date of creating new user: ");
+            String dateCreated = sc.nextLine();
 
-            PreparedStatement ps = conn.prepareStatement("INSERT INTO Clients (name, age) VALUES(?, ?)");
+            PreparedStatement ps = conn.prepareStatement("INSERT INTO users (email, phone, data_created) VALUES(?, ?, ?)");
             try {
-                ps.setString(1, name);
-                ps.setInt(2, age);
+                ps.setString(1, email);
+                ps.setString(2, phone);
+                ps.setString(3, dateCreated);
                 ps.executeUpdate(); // for INSERT, UPDATE & DELETE
             } finally {
                 ps.close();
             }
         }
 
-        private static void deleteClient(Scanner sc) throws SQLException {
-            System.out.print("Enter client name: ");
-            String name = sc.nextLine();
+        private static void deleteUsers(Scanner sc) throws SQLException {
+            System.out.print("Enter user email: ");
+            String email = sc.nextLine();
 
-            PreparedStatement ps = conn.prepareStatement("DELETE FROM Clients WHERE name = ?");
+            PreparedStatement ps = conn.prepareStatement("DELETE FROM users WHERE email = ?");
             try {
-                ps.setString(1, name);
+                ps.setString(1, email);
                 ps.executeUpdate(); // for INSERT, UPDATE & DELETE
             } finally {
                 ps.close();
             }
         }
 
-        private static void changeClient(Scanner sc) throws SQLException {
+        private static void changeUsers(Scanner sc) throws SQLException {
             System.out.print("Enter client name: ");
             String name = sc.nextLine();
             System.out.print("Enter new age: ");
             String sAge = sc.nextLine();
             int age = Integer.parseInt(sAge);
 
-            PreparedStatement ps = conn.prepareStatement("UPDATE Clients SET age = ? WHERE name = ?");
+            PreparedStatement ps = conn.prepareStatement("UPDATE users SET age = ? WHERE name = ?");
             try {
                 ps.setInt(1, age);
                 ps.setString(2, name);
@@ -113,8 +116,8 @@ import java.util.Scanner;
 
 
 
-        private static void viewClients() throws SQLException {
-            PreparedStatement ps = conn.prepareStatement("SELECT * FROM Clients");
+        private static void viewUsers() throws SQLException {
+            PreparedStatement ps = conn.prepareStatement("SELECT * FROM users");
             try {
                 // table of data representing a database result set,
                 ResultSet rs = ps.executeQuery();
