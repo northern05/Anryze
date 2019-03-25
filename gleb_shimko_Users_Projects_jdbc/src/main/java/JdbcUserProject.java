@@ -10,7 +10,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 
-    public class jdbcUserProject {
+    public class JdbcUserProject {
         static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/users";
         static final String DB_USER = "root";
         static final String DB_PASSWORD = "root";

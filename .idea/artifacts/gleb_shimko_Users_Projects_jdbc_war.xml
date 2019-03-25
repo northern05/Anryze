@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gleb_shimko_Users_Projects_jdbc:war">
+    <output-path>$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>gleb_shimko_Users_Projects_jdbc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="gleb_shimko_Users_Projects_jdbc.war">
+      <element id="artifact" artifact-name="gleb_shimko_Users_Projects_jdbc:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -139,8 +139,7 @@ public class Main {
                     for (int i = 0; i < count; i++) {
                         ps.setString(1, "Name" + i);
                         ps.setInt(2, rnd.nextInt(100));
-                        ps.executeUpdate();
-                    }
+                        ps.executeUpdate();                    }
                     conn.commit();
                 } finally {
                     ps.close();

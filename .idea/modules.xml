@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Anryze.iml" filepath="$PROJECT_DIR$/.idea/Anryze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/gleb_shimko_Users_Projects_jdbc.iml" filepath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/gleb_shimko_Users_Projects_jdbc.iml" />
+    </modules>
+  </component>
+</project>

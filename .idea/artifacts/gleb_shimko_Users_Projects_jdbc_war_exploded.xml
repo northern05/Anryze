@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gleb_shimko_Users_Projects_jdbc:war exploded">
+    <output-path>$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/gleb_shimko_Users_Projects_jdbc</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>gleb_shimko_Users_Projects_jdbc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gleb_shimko_Users_Projects_jdbc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.46" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/gleb_shimko_Users_Projects_jdbc/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="gleb_shimko_Users_Projects_jdbc/web/Web" />
+    </root>
+  </artifact>
+</component>
