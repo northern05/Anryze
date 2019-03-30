@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc" />
+    <file type="web" url="file://$PROJECT_DIR$/MusiX_AG" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -10,8 +11,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/MusiX_AG/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>

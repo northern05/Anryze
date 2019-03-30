@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MusiX_AG:war">
+    <output-path>$PROJECT_DIR$/MusiX_AG/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MusiX_AG</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MusiX_AG.war">
+      <element id="artifact" artifact-name="MusiX_AG:war exploded" />
+    </root>
+  </artifact>
+</component>
