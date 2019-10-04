@@ -17,13 +17,10 @@ public class Graber {
     }
 
     public String titleAndPriceGrabber(String url) throws IOException {
-        File input = new File("/tmp/input.html");
-        Document doc = Jsoup.parse(input, "UTF-8", url);
-
-        Element content = doc.getElementById("title");
-        Elements links = content.getElementsByTag("a");
+        Document doc = Jsoup.connect(url).get();
+        Element content = doc.getElementById("оно вообще нужно тут?");
+        Elements links = content.select(".prod-pricebox-price-primary span.primary");
         for (Element link : links) {
-            String linkHref = link.attr("href");
             String linkText = link.text();
         }
         return price;

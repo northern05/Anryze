@@ -1,45 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d464d4b4-f741-4e3d-983f-bbaa96aba8b1" name="Default Changelist" comment="Creating MusiX grabber project">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MusiX_AG_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MusiX_AG_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zsoltfabok_sqlite_dialect_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_jsr250_api_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_el_el_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_1_spec_1_0_0_Beta1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/MusiX_AG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/dao/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/utils/Graber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/utils/HibernateSessionFactoryUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/src/main/java/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/src/main/java/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/src/main/java/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d464d4b4-f741-4e3d-983f-bbaa96aba8b1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zsoltfabok_sqlite_dialect_1_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/src/main/java/JdbcUserProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/src/main/java/JdbcUserProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/MusiX_AG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/MusiX_AG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/src/main/java/utils/Graber.java" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/src/main/java/utils/Graber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/" />
     <ignored path="$PROJECT_DIR$/MusiX_AG/target/" />
@@ -94,8 +64,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusiX_AG/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="209">
+              <caret line="34" selection-start-line="34" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -103,16 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="187">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -121,16 +83,16 @@
         <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/utils/HibernateSessionFactoryUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/dao/ProductDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="39" column="136" selection-start-line="39" selection-start-column="136" selection-end-line="39" selection-end-column="136" />
+            <state relative-caret-position="124">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -150,20 +112,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            <state relative-caret-position="102">
+              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://afbc5297-a942-4d77-9431-d523f7594768/schema/main/table/Product">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -171,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/utils/Graber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+            <state relative-caret-position="374">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -180,11 +133,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="119">
+              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://afbc5297-a942-4d77-9431-d523f7594768/schema/main/table/sqlite_master">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
             </state>
           </provider>
         </entry>
@@ -218,11 +180,13 @@
         <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/ProductDao.java" />
         <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/Service.java" />
         <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/Graber.java" />
-        <option value="$PROJECT_DIR$/MusiX_AG/pom.xml" />
+        <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/dao/ProductDao.java" />
         <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/utils/Graber.java" />
         <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/Main.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java" />
+        <option value="$PROJECT_DIR$/MusiX_AG/pom.xml" />
         <option value="$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml" />
-        <option value="$PROJECT_DIR$/MusiX_AG/src/main/java/dao/ProductDao.java" />
       </list>
     </option>
   </component>
@@ -246,6 +210,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -312,24 +278,6 @@
               <item name="MusiX_AG" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="MusiX_AG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="MusiX_AG" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -340,15 +288,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553943983040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554136446729" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -414,7 +360,8 @@
       <updated>1553189036274</updated>
       <workItem from="1553189037676" duration="5489000" />
       <workItem from="1553853279061" duration="11615000" />
-      <workItem from="1553937319874" duration="6183000" />
+      <workItem from="1553937319874" duration="8265000" />
+      <workItem from="1554110229369" duration="3610000" />
     </task>
     <task id="LOCAL-00001" summary="Created Maven module for jdbc">
       <created>1553190981850</created>
@@ -430,27 +377,35 @@
       <option name="project" value="LOCAL" />
       <updated>1553193030008</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Creating MusiX grabber project">
+      <created>1553944090927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553944090927</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23287000" />
+    <option name="totallyTimeSpent" value="28979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.1716418" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.86998916" visible="true" weight="0.1716418" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Web" order="8" sideWeight="0.13001083" side_tool="true" visible="true" weight="0.1716418" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2426869" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5438787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -458,7 +413,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.1516793" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010941" side_tool="true" weight="0.33260393" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -468,7 +423,7 @@
       <window_info anchor="right" id="Maven" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.17590618" />
+      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.17590618" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
@@ -596,6 +551,13 @@
         <state relative-caret-position="-41" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/utils/HibernateSessionFactoryUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/service/Service.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -603,52 +565,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/afbc5297-a942-4d77-9431-d523f7594768/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MusiX_AG/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#445#446#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/utils/HibernateSessionFactoryUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -661,21 +584,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/utils/Graber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        <state relative-caret-position="374">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="das://afbc5297-a942-4d77-9431-d523f7594768/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/afbc5297-a942-4d77-9431-d523f7594768/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/models/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/java/dao/ProductDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="39" column="136" selection-start-line="39" selection-start-column="136" selection-end-line="39" selection-end-column="136" />
+        <state relative-caret-position="124">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusiX_AG/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="34" selection-start-line="34" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MusiX_AG/src/main/resources/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
         </state>
       </provider>
     </entry>

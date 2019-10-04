@@ -4,16 +4,24 @@ import javax.persistence.*;
 
 
 @Entity
-@Table (name = "models.Product")
+@Table (name = "product")
 public class Product {
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private  int Id;
-    @Column(name = "title")
+//    @Column(name = "title")
     private String title;
     private String price;
 
     public Product(String title, String price) {
+        this.title = title;
+        this.price = price;
+    }
+
+    public Product() {
+    }
+
+    public Product(int id, String title, String price) {
+        Id = id;
         this.title = title;
         this.price = price;
     }
