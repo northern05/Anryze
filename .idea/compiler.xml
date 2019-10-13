@@ -8,11 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="gleb_shimko_Users_Projects_jdbc" />
         <module name="MusiX_AG" />
+        <module name="usersProjectsHibernate" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gleb_shimko_Users_Projects_jdbc" target="1.7" />
       <module name="MusiX_AG" target="1.5" />
+      <module name="userProjectHibernateApp" target="1.5" />
+      <module name="usersProjectsHibernate" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

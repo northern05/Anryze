@@ -3,6 +3,8 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc" />
     <file type="web" url="file://$PROJECT_DIR$/MusiX_AG" />
+    <file type="web" url="file://$PROJECT_DIR$/userProjectHibernateApp" />
+    <file type="web" url="file://$PROJECT_DIR$/usersProjectsHibernate" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -12,6 +14,7 @@
       <list>
         <option value="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/MusiX_AG/pom.xml" />
+        <option value="$PROJECT_DIR$/usersProjectsHibernate/pom.xml" />
       </list>
     </option>
   </component>
