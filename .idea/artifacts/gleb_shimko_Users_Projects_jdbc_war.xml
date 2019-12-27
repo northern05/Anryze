@@ -9,6 +9,11 @@
     </properties>
     <root id="archive" name="gleb_shimko_Users_Projects_jdbc.war">
       <element id="artifact" artifact-name="gleb_shimko_Users_Projects_jdbc:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SaleforceDeveloperTest" />
+        </element>
+      </element>
     </root>
   </artifact>
 </component>
