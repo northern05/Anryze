@@ -1,55 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d464d4b4-f741-4e3d-983f-bbaa96aba8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbc5297-a942-4d77-9431-d523f7594768.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/afbc5297-a942-4d77-9431-d523f7594768/storage_v2/_src_/schema/main.uQUzAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_27_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/dao/ProductDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/models/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/service/Service.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/utils/Graber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/utils/HibernateSessionFactoryUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Practice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/out/production/Practice/Sorting/BubleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/out/production/Practice/Sorting/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/out/production/Practice/Sorting/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/out/production/Practice/Sorting/QuickSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/out/production/Sorting/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/out/test/Sorting/BubbleSortTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/Sorting/BubleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/Sorting/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/Sorting/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/src/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/SaleforceDeveloperTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/BudgetProblemException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/MyCompanyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaleforceDeveloperTest/src/SalaryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mydb.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/src/main/webapp/WEB-INF/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/dao/UsersDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/hibernate.cfg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/models/Project.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/models/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/utils/HibernateSessionFactoryUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Anryze.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Anryze.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/gleb_shimko_Users_Projects_jdbc_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/gleb_shimko_Users_Projects_jdbc_war.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="d464d4b4-f741-4e3d-983f-bbaa96aba8b1" name="Default Changelist" comment="Creating a CustomerAccount project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/usersProjectsHibernate/usersProjectsHibernate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/usersProjectsHibernate/usersProjectsHibernate.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerAccount/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerAccount/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/" />
     <ignored path="$PROJECT_DIR$/MusiX_AG/target/" />
@@ -102,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/Sorting/Test/BubbleSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -192,8 +146,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -205,14 +159,70 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
               <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
@@ -233,9 +243,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577460068316" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577472632966" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Proff1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -355,6 +365,7 @@
       <workItem from="1574960019594" duration="4940000" />
       <workItem from="1577387090781" duration="16912000" />
       <workItem from="1577451996077" duration="3706000" />
+      <workItem from="1577471378724" duration="1271000" />
     </task>
     <task id="LOCAL-00001" summary="Created Maven module for jdbc">
       <created>1553190981850</created>
@@ -434,13 +445,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78459000" />
+    <option name="totallyTimeSpent" value="79730000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.8689057" visible="true" weight="0.14765458" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.8689057" visible="true" weight="0.30634573" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -851,20 +862,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sorting/Test/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sorting/src/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Sorting/Test/BubbleSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
