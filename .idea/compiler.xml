@@ -12,6 +12,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com.account.restspring.main" target="1.8" />
+      <module name="com.account.restspring.test" target="1.8" />
       <module name="gleb_shimko_Users_Projects_jdbc" target="1.7" />
       <module name="MusiX_AG" target="1.5" />
       <module name="userProjectHibernateApp" target="1.5" />

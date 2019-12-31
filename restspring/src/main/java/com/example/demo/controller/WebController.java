@@ -49,7 +49,7 @@ public class WebController {
             @RequestParam String key,
             @RequestParam String value) {
 
-        Account account = new Account(key,value);
+        Account account = new Account(key, value);
 
         redisRepository.add(account);
         return new ResponseEntity<>(HttpStatus.OK);

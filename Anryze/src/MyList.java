@@ -57,11 +57,20 @@ public class MyList<E> implements Collection<E> {
         return numberElements == 0;
     }
 
+    @Override
+    public boolean contains(Object o) {
+        return false;
+    }
 
 
     @Override
     public Iterator<E> iterator() {
         return new MyListIterator();
+    }
+
+    @Override
+    public Object[] toArray() {
+        return new Object[0];
     }
 
     @Override
@@ -95,6 +104,16 @@ public class MyList<E> implements Collection<E> {
             current = previous.next;
         }
         return result;
+    }
+
+    @Override
+    public boolean retainAll(Collection<?> c) {
+        return false;
+    }
+
+    @Override
+    public void clear() {
+
     }
 
     @Override

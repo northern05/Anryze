@@ -7,7 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/SaleforceDeveloperTest/SaleforceDeveloperTest.iml" filepath="$PROJECT_DIR$/SaleforceDeveloperTest/SaleforceDeveloperTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.account.restspring.iml" filepath="$PROJECT_DIR$/.idea/modules/com.account.restspring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.account.restspring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.account.restspring.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.account.restspring.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.account.restspring.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/gleb_shimko_Users_Projects_jdbc.iml" filepath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/gleb_shimko_Users_Projects_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restspring/restspring.iml" filepath="$PROJECT_DIR$/restspring/restspring.iml" />
       <module fileurl="file://$PROJECT_DIR$/usersProjectsHibernate/usersProjectsHibernate.iml" filepath="$PROJECT_DIR$/usersProjectsHibernate/usersProjectsHibernate.iml" />
     </modules>
   </component>

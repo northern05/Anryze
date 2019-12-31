@@ -2,13 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d464d4b4-f741-4e3d-983f-bbaa96aba8b1" name="Default Changelist" comment="Creating a CustomerAccount project">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/restspring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/CustomerAccountApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/config/RedisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/controller/WebController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/queue/MessagePublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/queue/MessagePublisherImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/queue/MessageSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/repository/RedisRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/repository/RedisRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/resources/static/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restspring/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Anryze.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Anryze.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerAccount/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerAccount/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Anryze/src/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Anryze/src/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerAccount/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerAccount/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MusiX_AG/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MusiX_AG/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/classes/jdbcUserProject.class" beforeDir="false" afterPath="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/classes/jdbcUserProject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/dao/UsersDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/usersProjectsHibernate/target/classes/dao/UsersDao.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/target/" />
     <ignored path="$PROJECT_DIR$/MusiX_AG/target/" />
     <ignored path="$PROJECT_DIR$/userProjectHibernateApp/target/" />
     <ignored path="$PROJECT_DIR$/usersProjectsHibernate/target/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/restspring/.gradle/" />
+    <ignored path="$PROJECT_DIR$/restspring/build/" />
+    <ignored path="$PROJECT_DIR$/restspring/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,18 +91,77 @@
     </expand>
     <select />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/restspring">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sorting/Test/BubbleSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="595">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restspring/src/main/java/com/example/demo/model/Account.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/restspring/src/main/java/com/example/demo/CustomerAccountApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restspring/src/main/java/com/example/demo/queue/MessagePublisherImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restspring/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restspring/src/main/resources/static/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restspring/src/main/resources/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -136,6 +236,8 @@
         <option value="$PROJECT_DIR$/Sorting/src/Test/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/Sorting/Test/BubbleSortTest.java" />
         <option value="$PROJECT_DIR$/Sorting/src/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/Anryze/src/MyList.java" />
+        <option value="$PROJECT_DIR$/restspring/src/main/java/com/example/demo/queue/MessagePublisherImpl.java" />
       </list>
     </option>
   </component>
@@ -146,7 +248,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -159,80 +261,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
+              <item name="Anryze" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="CustomerAccount" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Anryze" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Anryze" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,25 +292,18 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577472632966" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577550562255" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="database.main" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="dao.impl" />
-      <recent name="entity" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Lenovo\IdeaProjects\Anryze" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\IdeaProjects\Anryze\Sorting\Test" />
       <recent name="C:\Users\Lenovo\IdeaProjects\Anryze\userProjectHibernateApp\src\main" />
@@ -269,6 +311,20 @@
       <recent name="C:\Users\Lenovo\IdeaProjects\Anryze\Anryze\src\java" />
       <recent name="C:\Users\Lenovo\IdeaProjects\Anryze\Anryze\src\user_projects_hibernate\models" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\Anryze\restspring\src\main" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Anryze\restspring" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\Anryze" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="dao.impl" />
+      <recent name="entity" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,13 +338,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BubbleSortTest.sortUnsortedListOfLengthTen">
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.Main" />
-      <module name="Practice" />
+  <component name="RunManager" selected="Application.CustomerAccountApplication">
+    <configuration name="CustomerAccountApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.CustomerAccountApplication" />
+      <module name="restspring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="com.example.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,13 +391,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CustomerAccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="com.account.restspring.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.CustomerAccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomerAccountApplication" />
         <item itemvalue="JUnit.BubbleSortTest.sortUnsortedListOfLengthTen" />
         <item itemvalue="JUnit.BubbleSortTest.sortUnsortedListOfLengthThreeVol2" />
         <item itemvalue="JUnit.BubbleSortTest" />
         <item itemvalue="JUnit.BubbleSortTest.sortUnsortedListOfLengthThree" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -366,6 +429,9 @@
       <workItem from="1577387090781" duration="16912000" />
       <workItem from="1577451996077" duration="3706000" />
       <workItem from="1577471378724" duration="1271000" />
+      <workItem from="1577527350750" duration="3716000" />
+      <workItem from="1577550758797" duration="459000" />
+      <workItem from="1577551278284" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="Created Maven module for jdbc">
       <created>1553190981850</created>
@@ -445,13 +511,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79730000" />
+    <option name="totallyTimeSpent" value="84501000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="7" />
     <layout>
       <window_info id="Persistence" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.8689057" visible="true" weight="0.30634573" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.8689057" visible="true" weight="0.15754923" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -466,14 +532,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1516793" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49781182" visible="true" weight="0.2866521" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5010941" side_tool="true" weight="0.33260393" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5021882" side_tool="true" visible="true" weight="0.2866521" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Database Console" order="14" sideWeight="0.4989059" weight="0.32936078" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4978678" weight="0.32936078" />
+      <window_info anchor="bottom" id="Spring" order="16" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -484,6 +552,8 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Gradle" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
     <layout-to-restore>
       <window_info id="Persistence" order="0" side_tool="true" />
@@ -539,45 +609,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/Wrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/sql/ResultSetMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="44" column="45" selection-start-line="44" selection-start-column="45" selection-end-line="44" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/gleb_shimko_Users_Projects_jdbc.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Anryze/src/ListMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MusiX_AG/MusiX_AG.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-41" />
-      </provider>
-    </entry>
-    <entry file="das://afbc5297-a942-4d77-9431-d523f7594768/schema/main/table/Product" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/afbc5297-a942-4d77-9431-d523f7594768/console.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -630,13 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://afbc5297-a942-4d77-9431-d523f7594768/schema/main/table/sqlite_master">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://afbc5297-a942-4d77-9431-d523f7594768/schema/main/table/sqlite_master" />
     <entry file="file://$PROJECT_DIR$/gleb_shimko_Users_Projects_jdbc/src/main/java/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -862,20 +887,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Anryze/src/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="21" />
+          <folding>
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1523#1524#0" expanded="true" />
+            <element signature="e#1559#1560#0" expanded="true" />
+            <element signature="e#2639#2640#0" expanded="true" />
+            <element signature="e#2667#2668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sorting/Test/BubbleSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="595">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/restspring/src/main/java/com/example/demo/model/Account.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restspring/src/main/java/com/example/demo/queue/MessagePublisherImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restspring/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restspring/src/main/resources/static/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restspring/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Sorting/src/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restspring/src/main/java/com/example/demo/CustomerAccountApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -933,12 +1005,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Sorting</last-edited>
+          <last-edited>restspring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
